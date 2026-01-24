@@ -11,7 +11,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
   
   <br/>
   
@@ -97,6 +96,7 @@
 ---
 
 ### ✍️ A Random Quote
+<h3 align="center">✍️ A Random Quote</h3>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
