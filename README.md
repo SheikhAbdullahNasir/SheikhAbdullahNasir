@@ -6,9 +6,10 @@
 
 <div align="center">
   <i>"Passionate about building scalable web applications and intuitive user interfaces."</i>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Momo+Signature&weight=100&size=15&pause=1000&width=435&lines=Passionate+about+building+scalable+web+applications+and+intuitive+user+interfaces." alt="Typing SVG" /></a>
-
 </div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Momo+Signature&weight=100&size=15&pause=1000&width=435&lines=Passionate+about+building+scalable+web+applications+and+intuitive+user+interfaces." alt="Typing SVG" /></a>
+
 
 ---
 
