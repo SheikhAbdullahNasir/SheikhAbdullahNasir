@@ -78,7 +78,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h1 align="center">💻 Tech Stack</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -95,7 +95,6 @@
 
 ---
 
-### ✍️ A Random Quote
 <h3 align="center">✍️ A Random Quote</h3>
 
 <div align="center">
