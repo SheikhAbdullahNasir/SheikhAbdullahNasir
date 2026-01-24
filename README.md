@@ -7,12 +7,8 @@
 <div align="center">
   <h1>Hi, I'm Abdullah Bin Nasir 👋</h1>
   <h3>A passionate Web Developer</h3>
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
