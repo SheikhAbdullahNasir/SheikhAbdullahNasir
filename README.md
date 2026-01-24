@@ -15,7 +15,7 @@
 ## 🔗 Socials:
 
 <div align="center">
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">
+  <a href="https://instagram.com/_abdullah_nasir12/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
