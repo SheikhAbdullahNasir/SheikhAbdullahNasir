@@ -8,10 +8,11 @@
   <i>"Passionate about building scalable web applications and intuitive user interfaces."</i>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Momo+Signature&weight=100&size=15&pause=1000&width=435&lines=Passionate+about+building+scalable+web+applications+and+intuitive+user+interfaces." alt="Typing SVG" /></a>
 
 
 ---
+
+
 
 <div align="center">
   <table>
@@ -34,7 +35,11 @@
   </table>
 </div>
 
+
+
 ---
+
+
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -74,13 +79,18 @@
 
 </div>
 
+
+
 ---
+
+
 
 <h3 align="center">✍️ A Random Quote</h3>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
+
 
 
 <h2 align="center">📫 Connect with me</h2>
