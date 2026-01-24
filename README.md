@@ -12,7 +12,7 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,6 +46,7 @@
 ---
 
 ### ✍️ A Random Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
@@ -53,6 +54,7 @@
 ---
 
 ### 🤣 A Mandatory Dev Joke
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
 </div>
