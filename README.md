@@ -79,9 +79,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
----
 
-<br/>
 
 <div align="center">  
   <h3>📫 Connect with me</h3>
