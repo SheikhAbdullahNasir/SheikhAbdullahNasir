@@ -110,3 +110,4 @@
   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
 </div>
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
