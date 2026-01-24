@@ -80,8 +80,7 @@
 </div>
 
 
-<h3 align="center">📫 Connect with me</h3>
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">📫 Connect with me</h2>
 
 <div align="center">    
   <a href="https://linkedin.com/in/abdullahnasir300/">
