@@ -1,14 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
   <h1>Hi, I'm Abdullah Bin Nasir 👋</h1>
-  <h3>A passionate Web Developer</h3>
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=A+Backend+Developer;A+MERN+Stack+Enthusiast;An+Open+Source+Contributor;A+Graphic+Designer;A+Beginner+SAP+Consultant" alt="Typing SVG" />
   </a>
 </div>
 
