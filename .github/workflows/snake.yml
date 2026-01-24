@@ -24,7 +24,7 @@ jobs:
     steps:
       # Step 1: Generate the animation using your specific settings
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/snk@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
