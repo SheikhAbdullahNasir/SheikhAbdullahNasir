@@ -23,7 +23,6 @@
         <h3 align="center">🔥 Streaks & Languages</h3>
         <div align="center">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhAbdullahNasir&theme=dark" align="center" style="width: 100%" />
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhAbdullahNasir&theme=dark&hide_border=true" align="center" style="width: 100%" />
           <br/>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhAbdullahNasir&layout=compact&theme=dark&langs_count=6" align="center" style="width: 100%" />
         </div>
