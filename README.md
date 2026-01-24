@@ -111,4 +111,4 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
