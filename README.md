@@ -99,6 +99,6 @@
 
 ---
 
-
-
-<img src="https://github.com/SheikhAbdullahNasir/SheikhAbdullahNasir/blob/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  <img src="https://github.com/SheikhAbdullahNasir/SheikhAbdullahNasir/blob/output/github-snake-dark.svg" alt="snake animation" />
+</div>
