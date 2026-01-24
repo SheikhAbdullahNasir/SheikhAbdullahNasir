@@ -98,7 +98,7 @@
 <h3 align="center">✍️ A Random Quote</h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=light" alt="Random Dev Quote" />
 </div>
 
 ---
