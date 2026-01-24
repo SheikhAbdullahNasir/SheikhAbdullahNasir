@@ -16,7 +16,7 @@
       <td valign="top" width="50%">
         <h3 align="center">📊 GitHub Stats</h3>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=SheikhAbdullahNasir&show_icons=true&theme=dark&hide_border=true&count_private=true" align="center" style="width: 100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=SheikhAbdullahNasir&show_icons=true&theme=dark&count_private=true" align="center" style="width: 100%" />
         </div>
       </td>
       <td valign="top" width="50%">
@@ -24,7 +24,7 @@
         <div align="center">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhAbdullahNasir&theme=dark" align="center" style="width: 100%" />
           <br/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhAbdullahNasir&layout=compact&theme=dark&hide_border=true&langs_count=6" align="center" style="width: 100%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhAbdullahNasir&layout=compact&theme=dark&langs_count=6" align="center" style="width: 100%" />
         </div>
       </td>
     </tr>
