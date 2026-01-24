@@ -8,12 +8,6 @@
   <i>"Passionate about building scalable web applications and intuitive user interfaces."</i>
 </div>
 
-<br/>
-
-
-
-
-
 ---
 
 <div align="center">
@@ -39,7 +33,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h1 align="center">💻 Tech Stack</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
