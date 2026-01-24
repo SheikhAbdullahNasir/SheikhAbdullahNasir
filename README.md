@@ -126,7 +126,7 @@
 ### 🤣 A Mandatory Dev Joke
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?type=horizontal&theme=dark" alt="Jokes Card" />
 </div>
 
 
