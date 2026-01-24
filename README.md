@@ -103,10 +103,3 @@
 
 ---
 
-### 🤣 A Mandatory Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
-</div>
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=cobalt&font=Architect&layout=samuel)
