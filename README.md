@@ -99,7 +99,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed)
 </div>
 
 ---
