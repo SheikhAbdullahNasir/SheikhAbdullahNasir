@@ -18,7 +18,10 @@
 
 <div align="center">
   <h1>Hi, I'm Abdullah Bin Nasir 👋</h1>
-    <a href="https://git.io/typing-svg">
+
+  <i>"Passionate about building scalable web applications and intuitive user interfaces."</i>
+  
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=A+Backend+Developer;A+MERN+Stack+Enthusiast;An+Open+Source+Contributor;A+Graphic+Designer;A+Beginner+SAP+Consultant" alt="Typing SVG" />
   </a>
 </div>
@@ -48,7 +51,7 @@
 
 ---
 
-<h1 align="center">💻 Tech Stack</h1>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -73,10 +76,7 @@
 
 ---
 
-<div align="center">
-  
-  <br/>
-  
+<div align="center">  
   <h3>📫 Connect with me</h3>
   <a href="https://linkedin.com/in/abdullahnasir300/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
