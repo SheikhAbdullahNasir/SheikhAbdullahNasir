@@ -10,28 +10,6 @@
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">📊 GitHub Stats</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=SheikhAbdullahNasir&show_icons=true&theme=dark&hide_border=true&count_private=true" align="center" style="width: 100%" />
-        </div>
-      </td>
-      <td valign="top" width="50%">
-        <h3 align="center">🔥 Streaks & Languages</h3>
-        <div align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhAbdullahNasir&theme=dark&hide_border=true" align="center" style="width: 100%" />
-          <br/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhAbdullahNasir&layout=compact&theme=dark&hide_border=true&langs_count=6" align="center" style="width: 100%" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
@@ -114,16 +92,25 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SheikhAbdullahNasir&show_icons=true&theme=dark" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhAbdullahNasir&theme=dark" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhAbdullahNasir&layout=compact&theme=dark" />
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">📊 GitHub Stats</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=SheikhAbdullahNasir&show_icons=true&theme=dark&hide_border=true&count_private=true" align="center" style="width: 100%" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">🔥 Streaks & Languages</h3>
+        <div align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhAbdullahNasir&theme=dark&hide_border=true" align="center" style="width: 100%" />
+          <br/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhAbdullahNasir&layout=compact&theme=dark&hide_border=true&langs_count=6" align="center" style="width: 100%" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
