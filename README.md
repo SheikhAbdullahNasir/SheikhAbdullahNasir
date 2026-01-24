@@ -47,5 +47,12 @@
 
 ### ✍️ Random Quote
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
+
+### 🤣 Random Dev Joke
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+</div>
+
+
