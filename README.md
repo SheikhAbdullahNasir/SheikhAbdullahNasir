@@ -107,8 +107,5 @@
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
