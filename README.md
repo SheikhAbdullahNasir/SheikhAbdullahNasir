@@ -12,7 +12,7 @@
 
 ---
 
-### 🔗 Socials:
+## 🔗 Socials:
 
 <div align="center">
   <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">
@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+---
 
 ## 🛠 Tech Stack
 
