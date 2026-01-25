@@ -47,6 +47,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,bootstrap,flutter,dart,androidstudio,nodejs,express,mongodb,mysql,npm,github,vscode,figma,ps,ai,canva&perline=8" />
   </a>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 <br/>
