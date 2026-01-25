@@ -43,7 +43,7 @@
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,bootstrap,flutter,dart,androidstudio,nodejs,express,sql,mongodb,mysql,npm,github,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,bootstrap,flutter,dart,androidstudio,nodejs,express,mongodb,mysql,npm,github,vscode&perline=8" />
   </a>
 </div>
 
