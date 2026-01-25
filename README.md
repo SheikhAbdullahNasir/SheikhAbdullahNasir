@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,bootstrap,flutter,dart,androidstudio,nodejs,express,mongodb,mysql,npm,github,vscode,figma,ps,ai,canva&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,bootstrap,flutter,dart,androidstudio,nodejs,express,mongodb,mysql,npm,github,vscode,figma,ps,ai&perline=8" />
   </a>
 </div>
 
@@ -74,14 +74,14 @@
 <h2 align="center">📫 Connect with me</h2>
 
 <div align="center">    
+  <a href="mailto:abdullah.nasir7312@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
   <a href="https://linkedin.com/in/abdullahnasir300/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:abdullah.nasir7312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://instagram.com/_abdullah_nasir12/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
 </div>
 
