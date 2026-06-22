@@ -71,7 +71,7 @@
   <a href="https://linkedin.com/in/abdullahnasir300/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/_abdullah_nasir12/">
+  <a href="https://instagram.com/abdullah.ai/">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
 </div>
