@@ -78,7 +78,8 @@
 
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat&allign=left)
+<div align="left">![Profile views](https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat)</div>
+
 
 <div align="center">
   <img src="https://github.com/SheikhAbdullahNasir/SheikhAbdullahNasir/blob/output/github-snake-dark.svg" alt="snake animation" />
