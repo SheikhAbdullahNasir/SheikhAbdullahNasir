@@ -79,7 +79,7 @@
 
 ---
 <div align="left">
-  ![Profile views](https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 
