@@ -11,7 +11,9 @@
 
 
 ---
-
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 
 <div align="center">
@@ -76,12 +78,7 @@
   </a>
 </div>
 
-
 ---
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
 
 <div align="center">
   <img src="https://github.com/SheikhAbdullahNasir/SheikhAbdullahNasir/blob/output/github-snake-dark.svg" alt="snake animation" />
