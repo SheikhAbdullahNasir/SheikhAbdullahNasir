@@ -76,10 +76,9 @@
   </a>
 </div>
 
----
-![Profile views](https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat)
 
 <div align="center">
   <img src="https://github.com/SheikhAbdullahNasir/SheikhAbdullahNasir/blob/output/github-snake-dark.svg" alt="snake animation" />
