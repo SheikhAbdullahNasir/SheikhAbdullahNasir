@@ -16,6 +16,9 @@
 </div>
 
 
+[![Certified Thinker](https://meatproxy.me/badge/c/najkh.svg)](https://meatproxy.me/c/najkh)
+
+
 <div align="center">
   <table>
     <tr>
@@ -86,7 +89,3 @@
 <div align="center">
   <img src="https://github.com/SheikhAbdullahNasir/SheikhAbdullahNasir/blob/output/github-snake-dark.svg" alt="snake animation" />
 </div>
-
-
-
-[![Certified Thinker](https://meatproxy.me/badge/c/najkh.svg)](https://meatproxy.me/c/najkh)
