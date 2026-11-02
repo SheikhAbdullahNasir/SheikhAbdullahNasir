@@ -11,12 +11,19 @@
 
 
 ---
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-
-[![Certified Thinker](https://meatproxy.me/badge/c/najkh.svg)](https://meatproxy.me/c/najkh)
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=SheikhAbdullahNasir&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+    </td>
+    <td align="center">
+      <a href="https://meatproxy.me/c/najkh">
+        <img src="https://meatproxy.me/badge/c/najkh.svg" alt="Certified Thinker" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 
 <div align="center">
